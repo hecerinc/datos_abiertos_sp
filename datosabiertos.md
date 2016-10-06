@@ -3,7 +3,7 @@
 
 ## Pregunta 1 - Trámites y Servicios
 
-- ¿Cómo identificar e implementar los trámites y servicios que pudieran y conviene que migren a ser tramitados completamente en línea? 
+- ¿Cómo identificar e implementar los trámites y servicios que pudieran y conviene que migren a ser tramitados completamente en línea?
 
 
 ### Datasets
@@ -16,7 +16,7 @@
 | | Requisitos de trámites |
 | | Demanda de trámites (Top 10 de trámites utilizados por ciudadanos) |
 | | Tiempos y costos de trámites |
-| | Autoridades que intervienen en los trámites | 
+| | Autoridades que intervienen en los trámites |
 
 
 #### Preguntas sobre dataset 1
@@ -26,18 +26,19 @@
 
 ## Pregunta 2 y 10 - Movilidad
 
-- ¿Cómo obtener y utilizar datos sobre vialidad en tiempo real para redireccionar y redistribuir de manera efectiva e inmediata el flujo vial? 
+- ¿Cómo obtener y utilizar datos sobre vialidad en tiempo real para redireccionar y redistribuir de manera efectiva e inmediata el flujo vial?
 - ¿Cómo fomentar de manera creativa y efectiva una cultura vial de respeto tanto a las autoridades, como a los demás conductores y a la infraestructura pública (banquetas, limpieza de la calle, etc)?
 
-### Datasets 
+### Datasets
 
-| Tenemos | No tenemos |
-| ------- | ---------- |
-| Datos sociodemográficos (INEGI) | |
-| | Reportes de accidentes viales |
-| | Reportes de quejas respecto a zonas congestionadas |
-| | Reporte de quejas de cruces peligrosos; |
-| | Ubicación de empresas, organizaciones y escuelas con alto flujo de personas |
+| Tenemos | No tenemos | Comentarios |
+| ------- | ---------- | ----------- |
+| Datos sociodemográficos (INEGI) | | |
+| | Reportes de accidentes viales | |
+| Reportes de quejas respecto a zonas congestionadas | | Qué significa un asterico en la columna seguimientosReporte? |
+| Reporte de quejas de cruces peligrosos; | | Por qué todos tienen como estatus "Conclusión"? La información en la columna de contacto a quién pertenece? |
+| Ubicación escuelas con alto flujo de personas |
+| | Ubicación de empresas y organizaciones con alto flujo de personas |
 | | Estadísticas e información sobre la matriz de origen-destino de los viajes dentro del municipio. |
 | | Estudio del IMPLAN sobre el transporte público en el municipio y la planeación de una BRT (Bus Rapid Transit) o metro. |
 | | Estudios de impacto vial sobre los nuevos desarrollos en el municipio |
@@ -52,7 +53,7 @@
 
 - ¿Cómo podemos fomentar el uso de espacios públicos no utilizados?
 
-### Datasets 
+### Datasets
 
 | Tenemos | No tenemos | Comentarios |
 | ------- | ---------- | ----------- |
