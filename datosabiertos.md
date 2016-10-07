@@ -11,12 +11,12 @@
 
 | Tenemos | No tenemos |
 | ------- | ---------- |
-| Listado de trámites y servicios que brinda el municipio | Listado de trámites donde se destacan los más solicitados |
+| Listado de trámites y servicios que brinda el municipio y donde se destacan los más solicitados | |
 | | Diagramas de flujo de trámites y servicios municipales |
-| | Requisitos de trámites |
-| | Demanda de trámites (Top 10 de trámites utilizados por ciudadanos) |
-| | Tiempos y costos de trámites |
-| | Autoridades que intervienen en los trámites |
+| Requisitos de trámites | |
+| Demanda de trámites (Top 10 de trámites utilizados por ciudadanos) | |
+| Tiempos y costos de trámites | |
+| Autoridades que intervienen en los trámites | |
 
 
 #### Preguntas sobre dataset 1
